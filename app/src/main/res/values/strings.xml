@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LedgerFlow</string>
+    <string name="nav_ledger">Ledger</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_settings">Settings</string>
+    <string name="fab_add_entry">Log Entry</string>
+    <string name="title_net_savings">Monthly Net Savings</string>
+    <string name="label_total_saved">Saved / Income</string>
+    <string name="label_total_spent">Total Expenses</string>
+    <string name="label_savings_rate">Savings Rate</string>
+    <string name="label_backdated">Backdated</string>
+    <string name="empty_ledger_title">No entries for this period</string>
+    <string name="empty_ledger_subtitle">Log your daily expenses, utility bills, or savings deposits—or backdate any missed day to keep your ledger complete.</string>
+    <string name="notification_channel_name">Daily Ledger Reminders</string>
+    <string name="notification_channel_desc">Reminds you daily to log your expenses and savings so your monthly report stays accurate.</string>
+    <string name="notification_title">Time to Update Your Daily Ledger</string>
+    <string name="notification_body">Log today\'s expenses, utility bills, or savings—or backdate any missed entries.</string>
+</resources>

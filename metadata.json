@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow",
+  "description": "Personal daily expense and savings ledger with custom categories, backdated entries, visual spending trend charts, end-of-month financial reports, and daily logging reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
